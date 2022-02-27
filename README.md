@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Oi! Eu sou Pedro Pietroluongo</h1>
-<h3 align="center">Work at @CWISoftwar. Java Especialist. Thelemite and tarotist.</h3>
+<h1 align="center">Hi! I'm Pedro Pietroluongo</h1>
+<h3 align="center">Work at @CWISoftware. Java Especialist. Thelemite and tarotist.</h3>
 
 <p align="left"> <a href="https://twitter.com/pedropietro" target="blank"><img src="https://img.shields.io/twitter/follow/pedropietro?logo=twitter&style=for-the-badge" alt="pedropietro" /></a> </p>
 
