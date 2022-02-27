@@ -70,6 +70,7 @@ Hi! I'm Pedro Pietroluongo
 <a href="https://www.leetcode.com/pedropietro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pedropietro" height="30" width="40" /></a>
  <a href="https://liberapay.com/pedropietro/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/liberapay/liberapay-icon.svg" alt="pedropietro" height="30" width="40" /></a>
  <a href="https://mastodon.social/@pedropietro" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/joinmastodon/joinmastodon-icon.svg" alt="pedropietro" height="30" width="40" /></a>
+ <a href="https://gitcoin.co/pedropietro" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gitcoinco/gitcoinco-icon.svg" alt="pedropietro" height="30" width="40" /></a>
  </p>
 
 <h3 align="left">Languages and Tools:</h3>
