@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </tr>
 </table>
       
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedropietro&show_icons=true&theme=dark&locale=pt-BR&layout=compact" alt="pedropietro" /></p>
+<!-- p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedropietro&show_icons=true&theme=dark&locale=pt-BR&layout=compact" alt="pedropietro" /></p -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedropietro&show_icons=true&theme=dark&locale=pt-BR" alt="pedropietro" /></p>
 
