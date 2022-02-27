@@ -78,4 +78,5 @@ Hi! I'm Pedro Pietroluongo
 
 </tr>
 </table>
+
 ![Metrics](https://metrics.lecoq.io/pedropietro?template=classic&stars=1&followup=1&people=1&tweets=1&activity=1&achievements=1&notable=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&stars.limit=4&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=America%2FSao_Paulo)
