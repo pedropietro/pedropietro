@@ -38,7 +38,7 @@ Hi! I'm Pedro Pietroluongo
 -->
 
 
-<table>
+<table border=0>
 <tr>
   <td valign="center">
 <a href="https://app.daily.dev/pedropietro"><img src="https://api.daily.dev/devcards/bb0daaa692344d8bb6dcf5af83890420.png?r=0e3" width="800" alt="Pedro Pietroluongo's Dev Card"/></a>
