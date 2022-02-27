@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <table>
 <tr>
   <td valign="center">
-    <a href="https://app.daily.dev/pedropietro"><img src="https://api.daily.dev/devcards/bb0daaa692344d8bb6dcf5af83890420.png?r=yc8" width="400" alt="Pedro Pietroluongo's Dev Card"/></a>
+    <a href="https://app.daily.dev/pedropietro"><img src="https://api.daily.dev/devcards/bb0daaa692344d8bb6dcf5af83890420.png?r=yc8" width="800" alt="Pedro Pietroluongo's Dev Card"/></a>
     <td >
 <h1 align="center">Hi! I'm Pedro Pietroluongo</h1>
 <h3 align="center">Work at @CWISoftware. Java Especialist. Thelemite and tarotist.</h3>
