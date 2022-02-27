@@ -53,9 +53,6 @@ Hi! I'm Pedro Pietroluongo
 
 <p align="left"> <a href="https://twitter.com/pedropietro" target="blank"><img src="https://img.shields.io/twitter/follow/pedropietro?logo=twitter&style=for-the-badge" alt="pedropietro" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
