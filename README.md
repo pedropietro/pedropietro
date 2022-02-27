@@ -59,4 +59,4 @@ Here are some ideas to get you started:
       
 <!-- p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedropietro&show_icons=true&theme=dark&locale=pt-BR&layout=compact" alt="pedropietro" /></p -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedropietro&show_icons=true&theme=dark&locale=pt-BR" alt="pedropietro" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pedropietro&theme=dark" alt="pedropietro" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pedropietro&show_icons=true&theme=dark&locale=pt-BR" alt="pedropietro" /><img  src="https://github-readme-streak-stats.herokuapp.com/?user=pedropietro&theme=dark" alt="pedropietro" /></p>
