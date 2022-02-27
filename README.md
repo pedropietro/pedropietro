@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <table>
 <tr>
@@ -25,15 +24,8 @@ Here are some ideas to get you started:
 <h3 align="center">Work at @CWISoftware. Java Especialist. Thelemite and tarotist.</h3>
 
 
-
-
-
-
 <p align="left"> <a href="https://twitter.com/pedropietro" target="blank"><img src="https://img.shields.io/twitter/follow/pedropietro?logo=twitter&style=for-the-badge" alt="pedropietro" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -57,9 +49,9 @@ Here are some ideas to get you started:
 </tr>
 </table>
       
-<!-- p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedropietro&show_icons=true&theme=dark&locale=pt-BR&layout=compact" alt="pedropietro" /></p -->
+<!-- p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedropietro&show_icons=true&theme=dark&locale=pt-BR&layout=compact" alt="pedropietro" /></p >
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pedropietro&show_icons=true&theme=dark&locale=pt-BR" alt="pedropietro" /> &nbsp; <img  src="https://github-readme-streak-stats.herokuapp.com/?user=pedropietro&theme=dark" alt="pedropietro" /></p>
-<br><br>
+<br><br -->
 ![Metrics](https://metrics.lecoq.io/pedropietro?template=classic&languages=1&stackoverflow=1&stars=1&followup=1&people=1&tweets=1&pagespeed=1&introduction=1&gists=1&repositories=1&lines=1&discussions=1&notable=1&achievements=1&activity=1&isocalendar=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&introduction.title=true&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&stackoverflow.user=0&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=America%2FSao_Paulo)
 
