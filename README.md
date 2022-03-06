@@ -22,7 +22,7 @@ Hi! I'm Pedro Pietroluongo
 
 ### Work at @CWISoftware. Java Especialist. Thelemite and tarotist.
 
-[![pedropietro](https://img.shields.io/twitter/follow/pedropietro?logo=twitter&style=for-the-badge)](https://twitter.com/pedropietro)
+[![pedropietro](https://img.shields.io/twitter/follow/pedropietro?logo=twitter&style=for-the-badge)](https://twitter.com/pedropietro) ![](https://komarev.com/ghpvc/?username=pedropietro&style=flat-square)
 
 ### Connect with me:
 
