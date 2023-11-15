@@ -77,6 +77,8 @@ Hi! I'm Pedro Pietroluongo
  <a href="https://gitcoin.co/pedropietro" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gitcoinco/gitcoinco-icon.svg" alt="pedropietro" height="30" width="40" /></a>
   <a href="https://hackernoon.com/u/pedropietro" target="blank"><img align="center" src="https://hackernoon.com/hn-icon.png" alt="pedropietro" height="30" width="40" /></a>
   <a href="https://www.polywork.com/pedropietro" target="blank"><img align="center" src="https://www.scottbrady91.com/img/logos/polywork.svg" alt="pedropietro" height="30" width="40" /></a>
+  <a href="https://pedropietro.bsky.social" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/2/2b/Bluesky_App_Icon.png" alt="pedropietro" height="30" width="40" /></a>
+  
  
  </p>
 
